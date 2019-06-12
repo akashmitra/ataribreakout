@@ -1,0 +1,36 @@
+{
+  "name": "ataribreakout",
+  "version": "1.0.0",
+  "description": "node phaser version of famous arcade game atari breakout",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akashmitra/ataribreakout.git"
+  },
+  "keywords": [
+    "atari",
+    "breakout",
+    "wozniak",
+    "arcade",
+    "node",
+    "phaser",
+    "javascript"
+  ],
+  "author": "Akash Mitra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akashmitra/ataribreakout/issues"
+  },
+  "homepage": "https://github.com/akashmitra/ataribreakout#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jquery": "^3.4.1",
+    "log4js": "^4.3.1",
+    "mongodb": "^3.2.7",
+    "mongoose": "^5.5.15"
+  }
+}
